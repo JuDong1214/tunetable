@@ -1,6 +1,6 @@
 # tunetable
 
-## The code for this repo is currently private due to various reasons and could be published to the public in the future)
+## The code for this repo is currently private due to various reasons and could be published to the public in the future
 
 A web aplication tailored for DJs to suggest and streamline song transitions. The user can search for songs and find transition matches for BPM, genre, lyrics, and popularity.
 
